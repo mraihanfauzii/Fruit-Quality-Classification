@@ -1,0 +1,8 @@
+Banana Healthy
+Banana Rotten
+Mango Healthy
+Mango Rotten
+Potato Healthy
+Potato Rotten
+Strawberry Healthy
+Strawberry Rotten
